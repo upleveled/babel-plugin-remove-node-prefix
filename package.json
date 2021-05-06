@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-remove-node-prefix",
+  "name": "@upleveled/babel-plugin-remove-node-prefix",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:upleveled/babel-plugin-remove-node-prefix.git",

@@ -21,7 +21,6 @@ module.exports = function removeNodePrefix(babel) {
             babel.types.stringLiteral(path.node.value.slice(5)),
           );
         }
-        path.skip();
       },
     },
   };

@@ -1,6 +1,6 @@
 {
   "name": "@upleveled/babel-plugin-remove-node-prefix",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "repository": "git@github.com:upleveled/babel-plugin-remove-node-prefix.git",
   "license": "MIT",
   "author": "Karl Horky <karl.horky@gmail.com>",
